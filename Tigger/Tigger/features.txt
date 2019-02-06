@@ -1,0 +1,10 @@
+Features implemented:
+1. Avatar
+2. Sunshine
+3. Texture of Falling
+4. Ground Zero
+5. Pitch Black 
+6. Sunset Boulevard 
+7. Shining 
+8. Keep Watching
+9. Spotlight
